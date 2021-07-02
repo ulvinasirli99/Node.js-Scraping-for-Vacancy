@@ -6,7 +6,7 @@
 
 **   npm install --save request request-promise cheerio puppeteer   **
 
-# This web api is for vacancies. Possible all vacancies, salaries, job titles and links to vacancies are coming.
+*** This web api is for vacancies. Possible all vacancies, salaries, job titles and links to vacancies are coming.
 
 
 
